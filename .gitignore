@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProductManger.Api/v17/.futdcache.v2
+/.vs/ProjectEvaluation/productmanger.api.metadata.v6.1
+/.vs/ProjectEvaluation/productmanger.api.projects.v6.1
+/.vs/ProductManger.Api/v17/.suo
+/.vs/ProductManger.Api/FileContentIndex/c61fba21-d5bc-465f-9805-30e9fbf19cd7.vsidx
+/.vs/ProductManger.Api/FileContentIndex/bc1b7838-04a7-4418-bf7f-8699de704a5d.vsidx
+/.vs/ProductManger.Api/FileContentIndex/b152fdac-e980-499c-aa24-8d111b64b1fc.vsidx
+/.vs/ProductManger.Api/FileContentIndex/07874fb5-c268-44e0-8678-12d92437c936.vsidx
