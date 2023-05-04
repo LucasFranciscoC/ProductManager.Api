@@ -1,0 +1,12 @@
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\bin\Debug\net6.0\ProductMananger.Core.deps.json
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\bin\Debug\net6.0\ProductMananger.Core.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\bin\Debug\net6.0\ProductMananger.Core.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ProductMananger.Core.csproj.AssemblyReference.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ProductMananger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ProductMananger.Core.AssemblyInfoInputs.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ProductMananger.Core.AssemblyInfo.cs
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ProductMananger.Core.csproj.CoreCompileInputs.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ProductMananger.Core.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\refint\ProductMananger.Core.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ProductMananger.Core.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Core\obj\Debug\net6.0\ref\ProductMananger.Core.dll

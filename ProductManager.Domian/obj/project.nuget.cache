@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wX2HIG0Jb2bBQXi0S4Bo3NqX5Lx3EYgSbklRuQVSeOQO6gt1Nt4VE3nBB2+t/Sp0sOoSlJqUon7phpQoZ+mUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nody1\\source\\repos\\ProductManger.Api\\ProductManager.Domian\\ProductManager.Domian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nody1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nody1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nody1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

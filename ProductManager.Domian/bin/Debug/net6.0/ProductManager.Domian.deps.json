@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProductManager.Domian/1.0.0": {
+        "dependencies": {
+          "ProductMananger.Core": "1.0.0",
+          "ProductMananger.Infra": "1.0.0"
+        },
+        "runtime": {
+          "ProductManager.Domian.dll": {}
+        }
+      },
+      "ProductMananger.Core/1.0.0": {
+        "runtime": {
+          "ProductMananger.Core.dll": {}
+        }
+      },
+      "ProductMananger.Infra/1.0.0": {
+        "dependencies": {
+          "ProductMananger.Core": "1.0.0"
+        },
+        "runtime": {
+          "ProductMananger.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductManager.Domian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductMananger.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductMananger.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

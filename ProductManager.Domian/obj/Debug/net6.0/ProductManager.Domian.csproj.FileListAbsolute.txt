@@ -1,0 +1,17 @@
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\bin\Debug\net6.0\ProductManager.Domian.deps.json
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\bin\Debug\net6.0\ProductManager.Domian.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\bin\Debug\net6.0\ProductManager.Domian.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.csproj.AssemblyReference.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.AssemblyInfoInputs.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.AssemblyInfo.cs
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.csproj.CoreCompileInputs.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\refint\ProductManager.Domian.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ref\ProductManager.Domian.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\bin\Debug\net6.0\ProductMananger.Core.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\bin\Debug\net6.0\ProductMananger.Infra.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\bin\Debug\net6.0\ProductMananger.Core.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\bin\Debug\net6.0\ProductMananger.Infra.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductManager.Domian\obj\Debug\net6.0\ProductManager.Domian.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\bin\Debug\net6.0\ProductMananger.Infra.deps.json
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\bin\Debug\net6.0\ProductMananger.Infra.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\bin\Debug\net6.0\ProductMananger.Infra.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.csproj.AssemblyReference.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.AssemblyInfoInputs.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.AssemblyInfo.cs
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.csproj.CoreCompileInputs.cache
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\refint\ProductMananger.Infra.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ref\ProductMananger.Infra.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\bin\Debug\net6.0\ProductMananger.Core.dll
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\bin\Debug\net6.0\ProductMananger.Core.pdb
+C:\Users\nody1\source\repos\ProductManger.Api\ProductMananger.Infra\obj\Debug\net6.0\ProductMananger.Infra.csproj.CopyComplete
